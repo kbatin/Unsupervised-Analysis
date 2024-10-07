@@ -9,3 +9,5 @@ K-means Clustering: Segmenting Facebook posts into clusters based on their engag
 Logistic Regression Models: Developing and comparing logistic regression models to predict whether a post is a photo based on original features, PCA results, and cluster groupings.
 This project applies unsupervised learning techniques and regression modeling to derive meaningful insights for improving social media engagement strategies. From understanding principal components to cluster analysis and logistic regression, the analysis offers both theoretical exploration and practical recommendations for enhancing the effectiveness of photo content on Facebook.
 
+
+Check the project [here](https://github.com/kbatin/Unsupervised-Analysis/blob/main/Batin_Kimberly_A1Facebook.ipynb)
